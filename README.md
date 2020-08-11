@@ -1,7 +1,8 @@
 # Simple Discord BOT
 It's a simple discord bot using python, made two commands to help someone spamming and removing a discord webhook.
 
-Make sure to install all required packages using cmd (windows):<br/>
+Install the latest python version.
+Then make sure to install all required packages using cmd (windows):<br/>
 `python -m pip install requests`<br/>
 `python -m pip install discord`<br/>
 `python -m pip install discord-webhook`<br/>
